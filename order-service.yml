@@ -1,7 +1,5 @@
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/order
-    username: ${GIT_USERNAME}
-    password: ${GIT_PASSWORD}
 server:
   port: 8082
